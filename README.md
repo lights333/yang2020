@@ -1,4 +1,5 @@
 # yang2020
+<<<<<<< HEAD
 
 > 2020yang444252
 
@@ -28,3 +29,6 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+yang2020
+>>>>>>> 4b5b6ab1fd01cbcb400b27d3e915996900853702
